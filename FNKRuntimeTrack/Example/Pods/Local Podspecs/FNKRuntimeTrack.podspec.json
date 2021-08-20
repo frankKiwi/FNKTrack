@@ -1,0 +1,22 @@
+{
+  "name": "FNKRuntimeTrack",
+  "version": "0.0.1",
+  "summary": "A short description of FNKRuntimeTrack.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://gitee.com/Frank_fanren/FNKRuntimeTrack.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LWW": "1778907544@qq.com"
+  },
+  "source": {
+    "git": "https://gitee.com/Frank_fanren/FNKRuntimeTrack.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FNKRuntimeTrack/Classes/**/*"
+}

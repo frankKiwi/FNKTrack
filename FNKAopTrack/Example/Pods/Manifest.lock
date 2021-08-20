@@ -1,0 +1,23 @@
+PODS:
+  - FNKAopTrack (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - FNKAopTrack (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  trunk:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  FNKAopTrack:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FNKAopTrack: 4e29d47068ba791996649bf09b4dc6e134908113
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: 96b3355a478e45536b7a03bc05312153acbf3d6e
+
+COCOAPODS: 1.8.4

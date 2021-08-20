@@ -1,0 +1,6 @@
+framework module FNKRuntimeTrack {
+  umbrella header "FNKRuntimeTrack-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module FNKAopTrack {
+  umbrella header "FNKAopTrack-umbrella.h"
+
+  export *
+  module * { export * }
+}

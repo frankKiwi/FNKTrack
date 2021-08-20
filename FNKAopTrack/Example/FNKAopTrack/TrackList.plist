@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Events</key>
+	<array>
+		<dict>
+			<key>EventID</key>
+			<string>10001</string>
+			<key>EventName</key>
+			<string>ev1</string>
+			<key>EventConfig</key>
+			<dict>
+				<key>target</key>
+				<string>FNKViewController</string>
+				<key>selectorStr</key>
+				<string>+testFun</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>EventID</key>
+			<string>11001</string>
+			<key>EventName</key>
+			<string>ev2</string>
+			<key>EventConfig</key>
+			<dict>
+				<key>target</key>
+				<string>FNKViewController</string>
+				<key>selectorStr</key>
+				<string>testAAA</string>
+			</dict>
+		</dict>
+	</array>
+	<key>PV</key>
+	<dict>
+		<key>FNKViewController</key>
+		<dict>
+			<key>pageName</key>
+			<string>首页</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

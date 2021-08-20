@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FNKRuntimeTrack_Example' do
+  pod 'FNKRuntimeTrack', :path => '../'
+
+  target 'FNKRuntimeTrack_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end

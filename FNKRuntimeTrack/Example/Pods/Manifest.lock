@@ -1,0 +1,23 @@
+PODS:
+  - FNKRuntimeTrack (0.0.1)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - FNKRuntimeTrack (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  trunk:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  FNKRuntimeTrack:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FNKRuntimeTrack: 0509b344e4dd0adcfea08b07364bf410540bd825
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: b3598b42f4e5a0ed4007d304f7f24b1d27b1874b
+
+COCOAPODS: 1.8.4
